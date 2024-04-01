@@ -1,6 +1,6 @@
 # Skylib-AVR
 
-The AVR platform support library for 8-bit AVR Skyline Synths modules. Currently only supports AVR32DA32.
+The platform support library for 8-bit AVR Skyline Synths modules. Currently only supports AVR32DA32.
 
 ## Dependencies
 - [avr-libstdcpp](https://github.com/modm-io/avr-libstdcpp)
