@@ -1,4 +1,4 @@
-cmake_minimum_required(3.25)
+cmake_minimum_required(VERSION 3.25)
 
 project(skylib-avr VERSION 1.0.0)
 
